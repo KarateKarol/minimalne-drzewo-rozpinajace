@@ -1,6 +1,5 @@
 
-import edu.tm1.krzyszof.jurkowski.zad1.Graph;
-import edu.tm1.krzyszof.jurkowski.zad2.Dijkstra;
+
 import org.jetbrains.annotations.NotNull;
 
 import java.io.BufferedReader;
