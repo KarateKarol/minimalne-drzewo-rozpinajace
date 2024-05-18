@@ -1,4 +1,3 @@
-package edu.tm1.krzyszof.jurkowski.zad3;
 
 import edu.tm1.krzyszof.jurkowski.zad1.Graph;
 import edu.tm1.krzyszof.jurkowski.zad2.Dijkstra;
